@@ -1,5 +1,8 @@
 # Jacky小屋
 
+### Github主页
+![https://github.com/NekoJacky](https://github.com/NekoJacky "https://github.com/NekoJacky")
+
 ### 刷题网站
 
 [洛谷](https://www.luogu.com.cn/ "https://www.luogu.com.cn/")
