@@ -7,7 +7,6 @@
 #### My Practice Answer
 
 [MyPracticeAnswer](https://github.com/NekoJacky/MyPracticeAnswer)
-[https://github.com/NekoJacky](https://github.com/NekoJacky)
 
 ### CppReference
 
