@@ -2,19 +2,16 @@
 
 ### Github主页
 
-<<<<<<< HEAD
 [NekoJacky - Github](https://github.com/NekoJacky "https://github.com/NekoJacky")
 
 #### My Practice Answer
 
 [MyPracticeAnswer](https://github.com/NekoJacky/MyPracticeAnswer)
-=======
 [https://github.com/NekoJacky](https://github.com/NekoJacky)
 
 ### CppReference
 
 [cppreference](https://zh.cppreference.com/w/cpp)
->>>>>>> 8416f07786903cf2d64a2660b7f109cc85726311
 
 ### 刷题网站
 
