@@ -4,14 +4,6 @@
 
 [NekoJacky - Github](https://github.com/NekoJacky "https://github.com/NekoJacky")
 
-#### My Practice Answer
-
-[MyPracticeAnswer](https://github.com/NekoJacky/MyPracticeAnswer)
-
-### CppReference
-
-[cppreference](https://zh.cppreference.com/w/cpp)
-
 ### 刷题网站
 
 [洛谷](https://www.luogu.com.cn/)
