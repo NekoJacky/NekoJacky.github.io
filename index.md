@@ -3,6 +3,7 @@
 这里是Jacky喵
 
 通信工程专业在读 C++菜鸡 不会Java
+
 4K音游入门玩家 提瓦特最废萌新 泰拉瑞亚猛新 城市天际线经营玩家
 
 学习音视频开发与C++ boost.asio中
@@ -42,3 +43,9 @@
 
 [牛客竞赛](https://ac.nowcoder.com/)
 - [牛客新手题单](https://ac.nowcoder.com/discuss/817596?f=b)
+
+# 其它
+
+平常会一边听歌一边写代码
+
+[网易云](https://music.163.com/#/user/home?id=1719692576)
