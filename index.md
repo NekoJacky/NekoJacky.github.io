@@ -2,7 +2,8 @@
 
 这里是Jacky喵
 
-通信工程专业在读 C++菜鸡 不会Java 4K音游入门玩家 提瓦特最废萌新 泰拉瑞亚猛新 城市天际线经营玩家
+通信工程专业在读 C++菜鸡 不会Java
+4K音游入门玩家 提瓦特最废萌新 泰拉瑞亚猛新 城市天际线经营玩家
 
 学习音视频开发与C++ boost.asio中
 
@@ -12,11 +13,17 @@
 
 ### 学习中...
 [食铁兽-音视频开发-ffmpeg学习](https://feater.top/ffmpeg/ffmpeg-learning-indexes "https://feater.top/ffmpeg/ffmpeg-learning-indexes")
+
 [恋恋风尘-C++](https://llfc.club/ "https://llfc.club/")
+
 [cppreference](https://zh.cppreference.com/w/cpp "https://zh.cppreference.com/w/cpp")
+
 [boost](https://www.boost.org/ "https://www.boost.org/")
+
 [boost.asio](https://www.boost.org/doc/libs/1_83_0/doc/html/boost_asio.html "https://www.boost.org/doc/libs/1_83_0/doc/html/boost_asio.html")
+
 [Qt](https://doc.qt.io/ "https://doc.qt.io/")
+
 [Ffmpeg](https://ffmpeg.org/documentation.html "https://ffmpeg.org/documentation.html")
 
 ### 软开刷题网站
